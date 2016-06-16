@@ -1,0 +1,62 @@
+/*-------------------------
+---------GENERAL----------
+--------------------------*/
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+.form-top {
+	text-align: center;
+}
+
+.personal-info,
+.work-info,
+.loan {
+	display: block;
+}
+
+input {
+	margin-bottom: 10px;
+}
+/*-------------------------
+---------Personal Info----------
+--------------------------*/
+
+.personal-info {
+	
+}
+
+/*-------------------------
+---------Work Info----------
+--------------------------*/
+
+.work-info {
+	
+}
+
+/*-------------------------
+---------Loan Inquiry----------
+--------------------------*/
+
+.loan {
+
+}
+
+.drop {
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
